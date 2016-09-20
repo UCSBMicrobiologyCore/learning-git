@@ -1,0 +1,1 @@
+* 'git init' -creates new git repository int he current folder
